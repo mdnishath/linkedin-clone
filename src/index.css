@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-button {
+}
+::-webkit-scrollbar-track {
+}
+::-webkit-scrollbar-track-piece {
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 40px;
+  background-color: rgba(0, 119, 181, 1);
+}
+::-webkit-scrollbar-corner {
+}
+::-webkit-resizer {
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
